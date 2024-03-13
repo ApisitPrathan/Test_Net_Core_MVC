@@ -1,0 +1,38 @@
+﻿@model InterviewTest_Clicknext.Models.TransactionHistory;
+
+@{
+    ViewData["Title"] = "Transfer";
+
+}
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h1>Transfer</h1>
+        <form asp-controller="Transaction" asp-action="Transfer" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group">
+                <label asp-for="TransactionSourceAccount" class="control-label"></label>
+                <input asp-for="TransactionSourceAccount" class="form-control" />
+                <span asp-validation-for="TransactionSourceAccount" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <label asp-for="TransactionDestinationAccount" class="control-label"></label>
+                <input asp-for="TransactionDestinationAccount" class="form-control" />
+                <span asp-validation-for="TransactionDestinationAccount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TransactionAmount" class="control-label"></label>
+                <input asp-for="TransactionAmount" class="form-control" />
+                <span asp-validation-for="TransactionAmount" class="text-danger"></span>
+            </div>
+
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Submit" class="btn btn-primary w-100" />
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,6 @@
+* Set up project
+1 เปลี่ยน connectionStrings ที่ appsettings.json 
+2 run command "Add-Migration initial" ที่ Tools > Nuget Package Manager > Package Manager Console 
+3 run command "Update-Database" ที่ Tools > Nuget Package Manager > Package Manager Console 
+4 หลังจากนั้นทำการ run programe 
+5 register user(ในการ create user จะได้ Current Balance ตั้งต้น 100000)

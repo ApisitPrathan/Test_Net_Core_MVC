@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using InterviewTest_Clicknext.Areas.Identity.Data
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+@{
+    ViewData["Title"] = "Home Page";
+    var applicationUser = await UserManager.GetUserAsync(User);
+    if (applicationUser != null)
+    {
+        ViewData["Account"] = applicationUser.AccountNumberGenerated;
+        ViewData["FirstName"] = applicationUser.FirstName;
+        ViewData["LastName"] = applicationUser.LastName;
+        ViewData["CurrentAccountBalance"] = applicationUser.CurrentAccountBalance;
+    }
+    else
+    {
+        ViewData["EmployeeId"] = "No User";
+    }
+}
+
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h1>Account : @ViewData["Account"]</h1>
+        <form asp-action="" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">First Name :</label>
+                <span> @ViewData["FirstName"]</span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Last Name :</label>
+                <span> @ViewData["LastName"]</span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Current Balance :</label>
+                <span>@ViewData["CurrentAccountBalance"]</span>
+            </div>
+        </form>
+    </div>
+</div>

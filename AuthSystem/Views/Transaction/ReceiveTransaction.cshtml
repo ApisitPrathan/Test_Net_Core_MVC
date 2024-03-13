@@ -1,0 +1,77 @@
+﻿@model IEnumerable<InterviewTest_Clicknext.Models.TransactionHistory>
+
+@{
+    ViewData["Title"] = "Receive Transaction";
+}
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <h1>Receive History</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TransactionDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TransactionDestinationAccountName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TransactionDestinationAccountRemain)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TransactionType)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TransactionSourceAccountName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TransactionAmount)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TransactionDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TransactionDestinationAccountName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TransactionDestinationAccountRemain)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TransactionType)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TransactionSourceAccountName)
+                        </td>                 
+                        <th>
+                            @Html.DisplayFor(modelItem => item.TransactionAmount)
+                        </th>
+                        
+                       
+                       
+                        @*  <td>
+                    <form asp-action="Delete" asp-route-id="@item.TransactionId">
+                    <div class="btn-group btn-group-sm">
+
+                    <a asp-action="AddOrEdit" asp-route-id="@item.TransactionId" class="btn btn-warning">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                    </a>
+                    <button type="submit" class="btn btn-danger"
+                    onclick="return confirm('Are you sure to delete this record?')">
+                    <i class="far fa-trash-alt"></i>
+                    </button>
+                    </div>
+                    </form>
+                    </td> *@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

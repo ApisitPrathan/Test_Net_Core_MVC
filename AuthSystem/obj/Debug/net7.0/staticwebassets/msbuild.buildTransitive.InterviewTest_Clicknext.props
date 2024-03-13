@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\InterviewTest_Clicknext.props" />
+</Project>

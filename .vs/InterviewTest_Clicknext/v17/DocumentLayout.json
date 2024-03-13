@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\transaction\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\transaction\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\transaction\\receivetransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\transaction\\receivetransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\transaction\\transfertransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\transaction\\transfertransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\transaction\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\transaction\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\views\\transaction\\withdrawal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\views\\transaction\\withdrawal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|c:\\users\\aonto\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\project\\net core mvctutorial\\interviewtest_clicknext\\authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3732C449-FF22-4B0C-80B1-A62FB71FCF76}|AuthSystem\\InterviewTest_Clicknext.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "AuthSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T14:04:21.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T10:36:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Models\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Models\\TransactionHistory.cs",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Models\\TransactionHistory.cs",
+              "RelativeToolTip": "AuthSystem\\Models\\TransactionHistory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:33:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transfer.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Transfer.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Transaction\\Transfer.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Transfer.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Transaction\\Transfer.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T16:12:26.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiveTransaction.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\ReceiveTransaction.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Transaction\\ReceiveTransaction.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\ReceiveTransaction.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Transaction\\ReceiveTransaction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T15:44:39.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransferTransaction.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\TransferTransaction.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Transaction\\TransferTransaction.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\TransferTransaction.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Transaction\\TransferTransaction.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T15:44:07.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:29:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAIwJsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:28:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T11:19:09.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:19:09.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T10:36:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T11:19:09.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:55:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Deposit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Deposit.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Transaction\\Deposit.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Deposit.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Transaction\\Deposit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:54:23.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Withdrawal.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Withdrawal.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Transaction\\Withdrawal.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Views\\Transaction\\Withdrawal.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Transaction\\Withdrawal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T16:13:00.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T11:19:09.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAA/wHQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:19:09.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\aonto\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Project\\NET CORE MVCTutorial\\InterviewTest_Clicknext\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:19:09.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
